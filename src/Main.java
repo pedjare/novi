@@ -5,7 +5,8 @@ public class Main {
 
         Ime novo =new Ime("pera");
             novo.ispis("pera");
-
+        novo.ispis("pera");
+        novo.ispis("pera");
 
     }
 }
