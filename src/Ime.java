@@ -6,6 +6,8 @@ public class Ime {
 
     public void ispis(String ime) {
         System.out.println(ime);
+        System.out.println(ime);
+        System.out.println(ime);
     }
 
 }
